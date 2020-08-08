@@ -55,6 +55,7 @@ textarea {
 }
 
 #preview {
+  overflow: scroll;
   margin-left: 10px;
   flex: 1;
   height: 80%;
